@@ -1,0 +1,3 @@
+Projeyi kullanabilmek için bu kütüphanleri indirmeniz gerekiyor. İster benim verdiklerimi çalıştırarak 
+ister web sitelerinden teker teker kütüphaneleri indirebilirsiniz.
+Kütüphaneleri indirmesseniz program çalışmaz !
